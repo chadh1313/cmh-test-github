@@ -239,7 +239,7 @@
             },
             {
               "Credential": {
-                "title": "Credential_09f149",
+                "title": "machine-cred",
                 "template_name": "Credential",
                 "version": "1.0",
                 "id": "credenti2e2d9afa",
@@ -263,7 +263,7 @@
             },
             {
               "Inventory": {
-                "title": "Inventory_70a255",
+                "title": "inventory",
                 "template_name": "Inventory",
                 "version": "1.0",
                 "id": "inventor6d7fc44d",
