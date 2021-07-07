@@ -214,7 +214,7 @@
                   "ami": "ami-b81dbfc5",
                   "instance_type": "t2.medium",
                   "availability_zone": "us-east-1a",
-                  "aws_key_pair_name": "cmh-anskey-demo",
+                  "aws_key_pair_name": "key-${svc_instance.name}",
                   "vpc_id": "vpc-6c51be09",
                   "group_name": "ucdev_secgroup_nva",
                   "centos-user": "centos"
