@@ -118,8 +118,8 @@
     ],
     "template_output_params": [
         {
-            "name": "azure_vm_public_ip",
-            "label": "azure_vm_public_ip",
+            "name": "azure_webvm_public_ip",
+            "label": "azure_webvm_public_ip",
             "description": "null",
             "group_name": "",
             "secured": false,
@@ -128,8 +128,28 @@
             "type": "string"
         },
         {
-            "name": "azure_vm_private_ip",
-            "label": "azure_vm_private_ip",
+            "name": "azure_webvm_private_ip",
+            "label": "azure_webvm_private_ip",
+            "description": "null",
+            "group_name": "",
+            "secured": false,
+            "hidden": false,
+            "shortname": "",
+            "type": "string"
+        },        
+        {
+            "name": "azure_dbvm_public_ip",
+            "label": "azure_dbvm_public_ip",
+            "description": "null",
+            "group_name": "",
+            "secured": false,
+            "hidden": false,
+            "shortname": "",
+            "type": "string"
+        },
+        {
+            "name": "azure_dbvm_private_ip",
+            "label": "azure_dbvm_private_ip",
             "description": "null",
             "group_name": "",
             "secured": false,
